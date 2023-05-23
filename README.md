@@ -31,7 +31,7 @@ Hello! I am Tom, a dedicated Electrical Engineering student with a passion for b
 
 Here are a few of my repositories that I'm really proud of:
 
-1. **Plan_Trip_Hotel_Recommendation_Application(https://github.com/TomVilla4397/Plan_Trip_Hotel_Recommendation_Application)**: Planning trips with chatGPT API.
+1. **[Plan_Trip_Hotel_Recommendation_Application](https://github.com/TomVilla4397/Plan_Trip_Hotel_Recommendation_Application)**: Planning trips with chatGPT API.
 
 
 ## 📫 How to Reach Me
