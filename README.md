@@ -35,8 +35,8 @@ Here are a few of my repositories that I'm really proud of:
 
 
 ## 📫 How to Reach Me
- 
-Feel free to connect with me on LinkedIn(https://www.linkedin.com/in/tom-villa-107402235). I am always open to interesting conversations and collaboration.
+
+Feel free to connect with me on  [LinkedIn - Tom Villa](https://www.linkedin.com/in/tom-villa-107402235). I am always open to interesting conversations and collaboration.
 
 Thank you for stopping by and taking the time to know a bit about me. Feel free to reach out if you have any questions or if you think we could collaborate on a project. I look forward to hearing from you! 🙌
 
